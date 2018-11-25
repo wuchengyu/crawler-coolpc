@@ -1,0 +1,16 @@
+{
+  "name": "crawler-join-government",
+  "version": "1.0.0",
+  "main": "src\\index.js",
+  "repository": "https://github.com/wuchengyu/crawler-join-government.git",
+  "author": "Yu\\Yu~ <jvyu59jvyu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "jsdom": "^13.0.0",
+    "node-fetch": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
